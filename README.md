@@ -39,7 +39,7 @@ The application aims to practice applying OOP concepts, programming logic, UI de
 1. Pastikan Visual Basic 6.0 sudah terpasang di komputer Anda.  
 2. Clone repository ini:  
    ```bash
-   git clone https://github.com/username/repo-kalkulator.git
+   git clone https://github.com/winkyid/Kalkulator-Sederhana.git
    ```  
 3. Buka file `.vbp` dengan Visual Basic 6.0.  
 4. Tekan tombol **Start** untuk menjalankan aplikasi.  
@@ -48,7 +48,7 @@ The application aims to practice applying OOP concepts, programming logic, UI de
 1. Ensure Visual Basic 6.0 is installed on your computer.  
 2. Clone this repository:  
    ```bash
-   git clone https://github.com/username/repo-calculator.git
+   git clone https://github.com/winkyid/Kalkulator-Sederhana.git
    ```  
 3. Open the `.vbp` file using Visual Basic 6.0.  
 4. Press **Start** to run the application.  
