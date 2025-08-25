@@ -73,4 +73,4 @@ The application aims to practice applying OOP concepts, programming logic, UI de
 ---
 
 ## 👨‍💻 Kontributor / Contributor  
-- Nama Anda (Developer)  
+- winkyid (Winky Kurniatama)
