@@ -1,7 +1,5 @@
-# Basic-Calculator
+#  Kalkulator Basic - Visual Basic 6.0  
 Kalkulator basic berbasis Visual Basic 6.0 yang dibuat untuk memenuhi Ulangan Akhir Semester mata kuliah Pemrograman Desktop Berorientasi Objek semester 3. Proyek ini bertujuan menerapkan konsep OOP, melatih logika pemrograman, perancangan antarmuka, serta implementasi kode secara terstruktur.
-
-# 🧮 Kalkulator Basic - Visual Basic 6.0  
 
 [![Made with VB6](https://img.shields.io/badge/Made%20with-VB6-blue?style=flat-square)]()  
 [![License](https://img.shields.io/badge/License-Academic-lightgrey?style=flat-square)]()  
