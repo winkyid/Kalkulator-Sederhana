@@ -58,9 +58,12 @@ The application aims to practice applying OOP concepts, programming logic, UI de
 ## 📂 Struktur Project / Project Structure  
 ```
 📦 Kalkulator-Basic-VB6
- ┣ 📜 Form1.frm   # Source code form utama / main form source code
- ┣ 📜 Module1.bas # Modul pendukung / supporting module
- ┣ 📜 Project.vbp # File project Visual Basic
+ ┣ 📜 Kalkulator.exe # file executable hasil compile
+ ┣ 📜 Kalkulator.frm # file form utama (UI + kode)
+ ┣ 📜 Kalkulator.frx # resource file pendukung form (misal layout, icon, dsb)
+ ┣ 📜 Kalkulator.vbp # File project Visual Basic
+ ┣ 📜 Kalkulator.vbw # file workspace (setting IDE, tidak wajib dishare)
+ ┣ 📜 MSSCCPRJ.SCC # file integrasi source control lama (bisa diabaikan)
  ┗ 📜 README.md   # Dokumentasi
 ```
 
